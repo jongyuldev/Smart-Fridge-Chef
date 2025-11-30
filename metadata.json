@@ -1,0 +1,7 @@
+{
+  "name": "Smart Fridge Chef",
+  "description": "Snap a photo of your fridge to get AI-powered recipe suggestions, complete with cooking mode and shopping lists.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
